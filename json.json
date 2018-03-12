@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "message": "",
+  "result":
+  {
+    "status": 1,
+    "orgList": [
+    {
+      "teachingplanId": "GHRYF3X6FHJ3F3J1EXF0DG",
+      "id": "D39_FIB6FH53E3X4F3J4FG",
+      "orgCode": "zz0011_001",
+      "orgName": "韬昭网络科技有限公司",
+      "abbrName": "韬昭",
+      "users":
+      {
+        "right":
+        {
+          "createtime": null,
+          "creator": null,
+          "id": null,
+          "imagePath": "xxxx",
+          "modifier": null,
+          "modifytime": null,
+          "orgId": "D39_FIB6FH53E3X4F3J4FG",
+          "teachingplanId": "GHRYF3X6FHJ3F3J1EXF0DG",
+          "userId": "EXZ0FHV_FHT3F3VXFX2AGA",
+          "userName": "hua004",
+          "userTicket": 0
+        },
+        "left":
+        {
+          "createtime": null,
+          "creator": null,
+          "id": null,
+          "imagePath": "xxxx",
+          "modifier": null,
+          "modifytime": null,
+          "orgId": "D39_FIB6FH53E3X4F3J4FG",
+          "teachingplanId": "GHRYF3X6FHJ3F3J1EXF0DG",
+          "userId": "DXF0DNJXFIB2DX18D3VYEW",
+          "userName": "hua002",
+          "userTicket": 0
+        }
+      }
+    },
+    {
+      "teachingplanId": "GHRYF3X6FHJ3F3J1EXF0DG",
+      "id": "F3N7EXKAFH11CND_E3EAEQ",
+      "orgCode": "zz0011_002",
+      "orgName": "廷纵网络科技有限公司",
+      "abbrName": "廷纵",
+      "users":
+      {
+        "left":
+        {
+          "createtime": null,
+          "creator": null,
+          "direction": "right",
+          "id": null,
+          "imagePath": "xxxx",
+          "modifier": null,
+          "modifytime": null,
+          "orgId": "F3N7EXKAFH11CND_E3EAEQ",
+          "teachingplanId": "GHRYF3X6FHJ3F3J1EXF0DG",
+          "userId": "E3J8GHV8FH52CNJ4DXKAFW",
+          "userName": "hua004",
+          "userTicket": 0
+        },
+        "right":
+        {}
+      }
+    }],
+    "userList": [
+    {
+      "imagePath": "",
+      "userId": "CXWAEHL2FHZ1CX5ZF3L_FQ",
+      "userName": "hua006"
+    },
+    {
+      "imagePath": "",
+      "userId": "DXF0DNJXFIB2DX18D3VYEW",
+      "userName": "hua002"
+    },
+    {
+      "imagePath": "",
+      "userId": "E3J8GHV8FH52CNJ4DXKAFW",
+      "userName": "hua003"
+    },
+    {
+      "imagePath": "",
+      "userId": "EN93DHD_FHZ3DNN0D3T_EG",
+      "userName": "hua001"
+    },
+    {
+      "imagePath": "",
+      "userId": "EXZ0FHV_FHT3F3VXFX2AGA",
+      "userName": "hua004"
+    },
+    {
+      "imagePath": "",
+      "userId": "FXZ0F358FHD2FXN3CXLYDA",
+      "userName": "hua005"
+    }],
+    "userMap":
+    {
+      "imagePath": "http://10.10.16.128:8080/res/fileView/resourceView?resId=DHJ3EHP1FH92EXF2DXSAEA",
+      "userId": "DH5_C392FH52DIB_FNF_EG",
+      "userName": "罗振轩"
+    }
+  }
+}
