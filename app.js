@@ -100,6 +100,17 @@ app.get("/api/initTest", function(req, res, next) {
 	});
 });
 
+app.get("/api/initDemo", function(req, res, next) {
+	fs.readFile("./demo.json", "utf-8", function(err, data) {
+	  if (err) {
+		  throw err;
+	  } else {
+		  res.send(data);
+		  next();
+	  }
+  });
+});
+
 let server = app.listen(port, function() {
   	console.log(`app listening at http://localhost:${port}`);
 });
